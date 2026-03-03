@@ -6,7 +6,7 @@ OWSA 是一个由多个大模型协同驱动，针对光学遥感图像中的油
 
 ## 数据集OWTD及预训练权重下载
 ### 百度网盘下载
-- 链接：https://pan.baidu.com/s/1oEE8dc_YNJfmhQOviQudJg?pwd=te3t
+- 链接：https://pan.baidu.com/s/1GYiCO5FMMrdgBR6AyH68pw?pwd=fa6q
 
 ## 安装步骤
 
